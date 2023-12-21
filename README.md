@@ -5,5 +5,5 @@ Find our paper [here]().
 Code will be released at a later date.
 
 # Files
-- design_space.csv: coding each paper in the design space along a different axis. 
+- surveyed_papers_classification.csv: classifing each surveyed papers spot in the design space. 
 - prompts: a folder containing prompts used for zeroshot and workflow case studies.
