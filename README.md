@@ -1,9 +1,8 @@
 # Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows
 
-Find our paper [here]().
+Find our paper [here](https://arxiv.org/pdf/2312.11681).
 
 Code will be released at a later date.
 
 # Files
-- *surveyed_papers_classification.csv*: surveyed papers classified into the design space. 
 - *prompts.zip*: a compressed folder containing prompts used for zeroshot and workflow case studies.
